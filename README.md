@@ -1,3 +1,7 @@
+## BOMALINK
+<img src="https://github.com/Kinotijoan/BomaLink/assets/117837618/ac5908cd-1c44-430a-86a3-15e876531e14" width="200">
+<h3>Maamuzi sahihi, ushirikiano wa kudumu</h3>
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
@@ -9,10 +13,11 @@ npm run dev
 # or
 yarn dev
 # or
-pnpm dev
+pnpm dev 
 # or
 bun dev
 ```
+pnpm is recommended for this project
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
